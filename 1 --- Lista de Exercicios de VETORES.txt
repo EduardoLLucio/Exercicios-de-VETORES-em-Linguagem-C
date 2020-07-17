@@ -1,0 +1,97 @@
+1 -- Programa que leia vários valores e armazene-os em uma lista. A entrada
+de dados deve ser encerrada quando o usuário fornecer o valor 0 (zero). Em seguida o
+programa deve mostrar a lista em ordem inversa.
+
+-------------------------------------------------
+
+2 -- Programa que leia vários valores e armazene-os em uma lista. A entrada
+de dados deve ser encerrada quando o usuário fornecer o valor 0 (zero). Em seguida o
+programa deve ler um número que será procurado na lista.
+- Caso o número seja encontrado o programa deve mostrar em que posição está
+- Caso o número não seja encontrado, o programa deve mostrar uma mensagem.
+
+-------------------------------------------------
+
+3 -- Programa que leia vários valores e armazene-os em uma lista. A entrada
+de dados deve ser encerrada quando o usuário fornecer o valor 0 (zero). Em seguida o
+programa deve informar.:
+• a média dos valores.
+• quais os valores da lista estão acima da média.
+
+-------------------------------------------------
+
+4 -- Programa que leia vários valores e armazene-os em uma lista até que o
+usuário digite um valor negativo. Em seguida o programa deve informar:
+• O maior número.
+• O menor número.
+• O número do meio: é a metade da distância entre o maior e o menor.
+• Quantos números são maiores que a metade e em percentual.
+• Quantos números são menores que e metade e em percentual.
+
+-------------------------------------------------
+
+5 -- Programa que leia vários valores e armazene-os em uma lista até que o
+usuário digite um valor negativo. Em seguida o programa deve mostrar os números em 
+ordem crescente
+
+-------------------------------------------------
+
+6 -- Programa que leia vários valores e armazene-os em uma lista até que o
+usuário digite um valor negativo. Em seguida o programa deve criar uma nova lista
+removendo os números repetidos da primeira lista.
+
+-------------------------------------------------
+	
+7 -- Complemente o algoritmo acima ( 6 ), separando os números não repetidos em pares e ímpares
+em listas diferentes.
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
+						Strings
+
+
+8 -- Programa que leia um valor entre 0 e 9999 e calcule a soma dos seus dígitos.
+
+-------------------------------------------------
+
+9 -- Dado um número de 3 algarismos, imprima os dígitos em ordem inversa.
+
+-------------------------------------------------
+
+10 -- Programa que leia uma frase (string), e que gere uma nova string
+removendo os espaços em branco da mesma.
+
+-------------------------------------------------
+
+11 -- Algoritmo que leia uma frase e que gere uma nova string removendo todos os
+caracteres não alfabéticos, em outras palavras, manter apenas os caracteres alfabéticos.
+Para isto, basta verificar se o código ASCII do caractere está entre o intervalo 65..90
+(maiúsculas) e 97..122 (minúsculas).
+Para pegar o código ASCII de um caracter use:
+cod_ascii = ord("a") → 97
+Depois, converta todas as letras para maiúsculo, pegando o código ASCII e diminuindo 32.
+Para gerar um caractere a partir do seu código, use:
+char = chr(65) → "A"
+
+-------------------------------------------------
+
+12 -- Programa que leia uma string e usando a estrutura de repetição FOR,
+conte quantos caracteres ela contém, e conte também quantos destes caracteres são vogais,
+independentemente se forem maiúsculos ou minúsculos.
+
+-------------------------------------------------
+
+13 -- Programa que leia uma string e verifique se ela é palíndroma. Uma
+palavra palíndroma tem a mesma leitura, lendo de frente para trás ou de trás para frente.
+
+-------------------------------------------------
+
+14 -- Programa que leia duas strings e verifique se a string menor está contida
+na string maior, e a partir de que posição isso ocorre
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+
